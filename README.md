@@ -1,2 +1,2 @@
 # S2DR3
-Free Sentinel-2 Deep Resolution at 1m version 3
+Free repository for Sentinel-2 Deep Resolution model S2DR3
